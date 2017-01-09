@@ -1,5 +1,7 @@
 RDO
 ===
+[![Build Status](https://travis-ci.org/vexxhost/ansible-role-openstack-rdo.svg?branch=master)](https://travis-ci.org/vexxhost/ansible-role-openstack-rdo)
+
 This role installs and sets up the RDO repositories.
 
 Requirements
