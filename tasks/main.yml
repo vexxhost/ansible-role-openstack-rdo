@@ -1,0 +1,5 @@
+---
+- name: install rdo release
+  yum:
+    name: "centos-release-openstack-{{ openstack_rdo_release }}"
+    state: present
